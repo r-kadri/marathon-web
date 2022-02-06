@@ -1,4 +1,5 @@
 # Marathon21
+Projet réalisé en 48h (partie Back-End) en équipe.
 
 Après avoir récupéré le projet, ne pas oublier de :
 
